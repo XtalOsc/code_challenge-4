@@ -1,5 +1,5 @@
 $(document).ready(function () {
-
+console.log('in doc ready');
   // get treats on load
   getTreats();
 
